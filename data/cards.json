@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "title": "React Native",
+    "description": "Apprends à créer des apps mobiles cross-platform.",
+    "image": "https://reactnative.dev/img/tiny_logo.png",
+    "category": "Framework"
+  },
+  {
+    "id": "2",
+    "title": "Expo",
+    "description": "Démarre vite sans Android Studio ni Xcode.",
+    "image": "https://avatars.githubusercontent.com/u/12504344?s=200&v=4",
+    "category": "Outil"
+  },
+  {
+    "id": "3",
+    "title": "Flexbox",
+    "description": "Mets en page tes vues facilement.",
+    "image": "https://miro.medium.com/proxy/1*exn5_ucO2D_-XsZUcdCn6A.jpeg",
+    "category": "CSS"
+  },
+  {
+    "id": "4",
+    "title": "JavaScript",
+    "description": "Le langage de programmation du web moderne.",
+    "image": "https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png",
+    "category": "Langage"
+  },
+  {
+    "id": "5",
+    "title": "TypeScript",
+    "description": "JavaScript avec typage statique pour plus de sécurité.",
+    "image": "https://repository-images.githubusercontent.com/657740231/7a6b015e-0013-4f20-990e-01fa1f8e2968",
+    "category": "Langage"
+  },
+  {
+    "id": "6",
+    "title": "Node.js",
+    "description": "Exécute JavaScript côté serveur.",
+    "image": "https://www.liblogo.com/img-logo/no6273w13b-node-js-logo-what-does-it-take-to-support-node-js-esm-the-guild-blog.png",
+    "category": "Runtime"
+  },
+  {
+    "id": "7",
+    "title": "Redux",
+    "description": "Gestion d'état prévisible pour applications JavaScript.",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.ScAlvu_NcVBdNeUZ1DXQMwHaDD?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "category": "Bibliothèque"
+  },
+  {
+    "id": "8",
+    "title": "Git",
+    "description": "Système de contrôle de version distribué.",
+    "image": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+    "category": "Outil"
+  },
+  {
+    "id": "9",
+    "title": "React",
+    "description": "Bibliothèque JavaScript pour construire des interfaces utilisateur.",
+    "image": "https://itsilesia.com/wp-content/uploads/2018/12/react-logo.png",
+    "category": "Framework"
+  },
+  {
+    "id": "10",
+    "title": "MongoDB",
+    "description": "Base de données NoSQL orientée documents.",
+    "image": "https://www.mongodb.com/assets/images/global/leaf.png",
+    "category": "Base de données"
+  },
+  {
+    "id": "11",
+    "title": "Docker",
+    "description": "Plateforme de conteneurisation pour applications.",
+    "image": "https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png",
+    "category": "Outil"
+  },
+  {
+    "id": "12",
+    "title": "Vue.js",
+    "description": "Framework JavaScript progressif pour construire des UI.",
+    "image": "https://www.kindpng.com/picc/m/452-4529223_vue-js-logo-png-transparent-png.png",
+    "category": "Framework"
+  }
+]
